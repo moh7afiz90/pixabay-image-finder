@@ -1,1 +1,0 @@
-## PixaBay Image Finder
